@@ -482,6 +482,7 @@ Further resources:
 * [AnyChart](http://www.anychart.com/)
 * [FusionCharts](http://www.fusioncharts.com/)
 * [Nivo](http://nivo.rocks) - built on top of the awesome d3 and Reactjs libraries
+* [NextJSON](https://nextjson.com/) - Free in-browser JSON formatter, validator and nested JSON parser for inspecting datasets and model outputs.
 
 
 <a name="javascript-general-purpose"></a>
